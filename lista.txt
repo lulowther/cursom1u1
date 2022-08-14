@@ -2,3 +2,10 @@ Galletitas
 cereales
 pan
 banana
+palta
+banana
+frutilla
+naranja
+uva
+manzana
+mandarina
