@@ -6,6 +6,3 @@ palta
 banana
 frutilla
 naranja
-uva
-manzana
-mandarina
